@@ -9,7 +9,7 @@ $.fn.dataTable.ext.oSort['de-date-desc'] = function (a,b) {
 /**
  * Utility Function - CompareDates
  * 
- * bekommt 2 DatenStrings und gibt zurück:
+ * gets 2 date strings and returns
  * a > b -> 1
  * b > a -> -1
  * a = b -> 0
