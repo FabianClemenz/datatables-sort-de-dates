@@ -1,2 +1,2 @@
 # Datatables-DE-Date-Sort
-Plugin for Datatables to sort german dates
+Plugin for [Datatables](https://datatables.net) to sort german dates
